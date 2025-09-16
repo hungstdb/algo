@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
          Deque<Integer> maxDeque = new LinkedList<>(); // decreasing
