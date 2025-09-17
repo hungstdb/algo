@@ -1,5 +1,3 @@
-# Google L5 Coding Interview Simulation: Minimum Path Sum Variants
-
 ## Base Problem: Minimum Path Sum
 
 **Problem:**
